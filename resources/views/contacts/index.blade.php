@@ -6,6 +6,7 @@
         <div class="row">
             <div class="col-12">
                 <h1 class="text-center">Contactos Personales</h1>
+                <h2 class="text-right">Uriel Martínez Flores</h2>
                 <a href="{{ route('contacts.create') }}" class="btn btn-success btn-sm">Crear Contacto</a>
                 <table class="table table-striped">
                     <thead class="">
